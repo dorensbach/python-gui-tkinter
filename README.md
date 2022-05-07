@@ -1,4 +1,4 @@
-# python-gui
+# python-gui-tkinter
 Github: (https://github.com/dorensbach/python-gui-tkinter)
 ## Seguindo tutorial do site:
 https://pythongeeks.org/gui-programming-in-python/
